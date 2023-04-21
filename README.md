@@ -4,7 +4,7 @@ Meu nome é João Marcelo e esta é a minha página no Github, onde compartilho 
 
 ## Sobre mim
 
-Me interesso muito pelo poder da programação para a resolução de problemas, e por isso, gosto de explorar novas tecnologias e linguagens de programação, para pensar em cada vez mais formas de solucionar problemas.
+Me interesso muito pelo poder de resolver problemas por meio da programação, e por isso, gosto de explorar novas tecnologias e linguagens de programação, para pensar em cada vez mais formas de solucionar problemas.
 
 - 🎓 Atualmente, estou cursando o 5° período do curso de Ciência da Computação na UVV (Universidade Vila Velha)
 - 💻 Me sinto satisfeito quando crio um programa funcional de estética agradável.
@@ -12,7 +12,7 @@ Me interesso muito pelo poder da programação para a resolução de problemas, 
 ## Contato
 
 - ✉ [joaomarcelobmorais@gmail.com](mailto:joaomarcelobmorais@gmail.com)
-- 🔗 [Linkedin](https://www.linkedin.com/in/jamelo-bm/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jamelo-bm/)
 
 ### Linguagens
 <div style="display: inline_block"><br>
