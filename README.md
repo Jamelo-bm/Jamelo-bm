@@ -6,7 +6,7 @@ Meu nome é João Marcelo e esta é a minha página no Github, onde compartilho 
 
 Me interesso muito pelo poder de resolver problemas por meio da programação, e por isso, gosto de explorar novas tecnologias e linguagens de programação, para pensar em cada vez mais formas de solucionar problemas.
 
-- 🎓 Atualmente, estou cursando o 7° período do curso de Ciência da Computação na UVV (Universidade Vila Velha)
+- 🎓 Sou formado em Ciência da Computação pela UVV (Universidade Vila Velha).
 - 💻 Me sinto satisfeito quando crio um programa funcional de estética agradável.
 
 ## Contato
