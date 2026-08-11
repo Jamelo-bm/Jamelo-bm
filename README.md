@@ -16,7 +16,7 @@ Gosto de transformar necessidades em aplicações práticas, fluidas e refinadas
 
 ### ⚡ Stack Principal
 
-<img src="https://img.shields.io/badge/HTML5-b55f47?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-3f7dab?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-4b85c4?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-2f343d?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tauri-e0be6e?style=for-the-badge&logo=tauri&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-b55f47?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-3f7dab?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-4b85c4?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-6f75d6?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/React-2f343d?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tauri-e0be6e?style=for-the-badge&logo=tauri&logoColor=black"/>
 
 ### 🎮 Outras Tecnologias
 
