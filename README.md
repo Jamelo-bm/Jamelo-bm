@@ -12,7 +12,7 @@ Gosto de transformar necessidades em aplicações práticas, fluidas e refinadas
 
 [joaomarcelobmorais@gmail.com](mailto:joaomarcelobmorais@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jamelo-bm/)
 
-#### 🌐 Portfólio
+#### Portfólio
 
 Confira meu portfólio para conhecer meus projetos pessoais:
 
