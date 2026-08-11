@@ -4,7 +4,7 @@
 
 `Desenvolvedor Front-End`
 
-Sou formado em Ciência da Computação e tenho como foco o **desenvolvimento Front-End**.
+Me chamo João Marcelo, sou formado em Ciência da Computação e tenho como foco o **desenvolvimento Front-End**.
 
 Gosto de transformar necessidades em aplicações práticas, fluidas e refinadas. Atualmente, trabalho no desenvolvimento de um aplicativo desktop com Tauri, React, TypeScript, HTML e CSS, aplicando tecnologias modernas na construção de uma solução completa.
 
