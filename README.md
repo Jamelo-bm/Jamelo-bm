@@ -8,9 +8,15 @@ Me chamo João Marcelo, sou formado em Ciência da Computação e tenho como foc
 
 Gosto de transformar necessidades em aplicações práticas, fluidas e refinadas. Atualmente, trabalho no desenvolvimento de um aplicativo desktop com Tauri, React, TypeScript, HTML e CSS, aplicando tecnologias modernas na construção de uma solução completa.
 
-### Contato
+#### Contato
 
 [joaomarcelobmorais@gmail.com](mailto:joaomarcelobmorais@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jamelo-bm/)
+
+#### 🌐 Portfólio
+
+Confira meu portfólio para conhecer meus projetos pessoais:
+
+**[Acessar meu Portfólio](https://app.notion.com/p/jamelo-bm/Portif-lio-3b96a6361f60802ba6c3daed76e0b35a?source=copy_link)**
 
 ---
 
