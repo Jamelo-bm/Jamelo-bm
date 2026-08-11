@@ -20,5 +20,4 @@ Gosto de transformar necessidades em aplicações práticas, fluidas e refinadas
 
 ### 🎮 Outras Tecnologias
 
-<img src="https://img.shields.io/badge/Unity-2b2b2b?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-4f8a4d?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-2b2b2b?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-4f8a4d?style=for-the-badge&logo=csharp&logoColor=white"/>
