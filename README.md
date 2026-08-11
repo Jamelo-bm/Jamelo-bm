@@ -1,24 +1,24 @@
-# Bem-vindo(a) à minha conta no Github!
+# Boas Vindas.
 
-Meu nome é João Marcelo e esta é a minha página no Github, onde compartilho meus projetos pessoais.
+### 🧠 Sobre mim
 
-## Sobre mim
+`Desenvolvedor Front-End`
 
-Me interesso muito pelo poder de resolver problemas por meio da programação, e por isso, gosto de explorar novas tecnologias e linguagens de programação, para pensar em cada vez mais formas de solucionar problemas.
+Sou formado em Ciência da Computação e tenho como foco o **desenvolvimento Front-End**.
 
-- 🎓 Sou formado em Ciência da Computação pela UVV (Universidade Vila Velha).
-- 💻 Me sinto satisfeito quando crio um programa funcional de estética agradável.
+Gosto de transformar necessidades em aplicações práticas, fluidas e refinadas. Atualmente, trabalho no desenvolvimento de um aplicativo desktop com Tauri, React, TypeScript, HTML e CSS, aplicando tecnologias modernas na construção de uma solução completa.
 
-## Contato
+### Contato
 
-- ✉ [joaomarcelobmorais@gmail.com](mailto:joaomarcelobmorais@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jamelo-bm/)
+[joaomarcelobmorais@gmail.com](mailto:joaomarcelobmorais@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jamelo-bm/)
 
-### Linguagens
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="40"/>
-</div>
+---
+
+### ⚡ Stack Principal
+
+<img src="https://img.shields.io/badge/HTML5-b55f47?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-3f7dab?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-4b85c4?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-2f343d?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tauri-e0be6e?style=for-the-badge&logo=tauri&logoColor=black"/>
+
+### 🎮 Outras Tecnologias
+
+<img src="https://img.shields.io/badge/Unity-2b2b2b?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-4f8a4d?style=for-the-badge&logo=csharp&logoColor=white"/>
